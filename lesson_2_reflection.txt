@@ -22,3 +22,6 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+How can you use the staging area to make sure you have one commit per logical change?
+after doing changes in your file , add file to staging area whcih you want to commit and then commit that file to repository
