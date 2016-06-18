@@ -25,3 +25,6 @@ manually?
 
 How can you use the staging area to make sure you have one commit per logical change?
 after doing changes in your file , add file to staging area whcih you want to commit and then commit that file to repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if i want to try new features and create diiferent versions for different users
