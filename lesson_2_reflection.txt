@@ -33,3 +33,7 @@ How do the diagrams help you visualize the branch structure?
 
 diagrams help me vusualize the structure of the branches and which commit can be lost unknowningly
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merges help us to combine different version into one
+
